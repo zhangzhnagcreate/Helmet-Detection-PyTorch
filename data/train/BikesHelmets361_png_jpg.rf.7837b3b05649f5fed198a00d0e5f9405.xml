@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>BikesHelmets361_png_jpg.rf.7837b3b05649f5fed198a00d0e5f9405.jpg</filename>
+	<path>D:\helmet detector\data (1)\train\BikesHelmets361_png_jpg.rf.7837b3b05649f5fed198a00d0e5f9405.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>29</ymin>
+			<xmax>239</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>

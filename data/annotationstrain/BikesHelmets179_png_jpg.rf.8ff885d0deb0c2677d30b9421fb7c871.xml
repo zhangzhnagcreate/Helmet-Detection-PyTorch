@@ -1,0 +1,62 @@
+<annotation>
+	<folder>valid</folder>
+	<filename>BikesHelmets179_png_jpg.rf.8ff885d0deb0c2677d30b9421fb7c871.jpg</filename>
+	<path>D:\helmet detector\data (1)\valid\BikesHelmets179_png_jpg.rf.8ff885d0deb0c2677d30b9421fb7c871.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>153</ymin>
+			<xmax>102</xmax>
+			<ymax>222</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>157</ymin>
+			<xmax>292</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>No Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>85</ymin>
+			<xmax>172</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>No Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>37</ymin>
+			<xmax>336</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>
